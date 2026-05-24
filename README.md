@@ -2,6 +2,8 @@
 Interactive dashboard built in Microsoft Power BI to analyse the Australian Government 2026–27 Budget.
 # Overview
 This project visualises government expenses by sector and compares them with the previous year.
+<img width="1291" height="732" alt="Australia_Budget_2026_27" src="https://github.com/user-attachments/assets/47ce1d50-90a1-453a-856a-8cf0ce311b55" />
+
 # Key Insights
 - Total expenses: $833.3bn (+21.2 bn change from last year)
 - Largest sector: Social Security and Welfare (37.05%)
